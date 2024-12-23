@@ -20,3 +20,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/background.png
+    - assets/logo veggiehub.png
+    - assets/teks.png
+    - assets/bayangan.png
